@@ -4,6 +4,7 @@ A set of Python scripts designed to grab product information from fashion websit
 
 ### Why I built this
 I made this nearly 2 years ago to help with my own online clothing store. Instead of manually copying and pasting hundreds of products, I built this tool to automate the whole process.
+It was tested on websites like PRM and BSTN, but can be adapted for others with some small changes.
 
 ### What it does
 * **Auto-Fetching:** Grabs product names, prices, and high-quality image URLs.
